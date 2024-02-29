@@ -1,0 +1,31 @@
+Serialize means Data convert object to string (During Api making)
+Deserialize means Data convert string to object (During api consumption)
+
+Rest full api means use of rest words where all http methods like get, post, put, patch, and delete are used.
+
+
+1) To Consume api we need URL
+
+2) Client
+
+3) GetAll
+
+4) cshtml | for user list render
+
+Add NewtonSoft.Json
+
+1 - Request recieved
+2 - Successful
+3 - Redirection
+4 - Client Side error
+5 - Server side error
+
+Http 
+if(resposne.IsSuccessStatusCode)
+{
+	string data = response.Content.ReadAsStringAsync().Result;
+	dynamic jsonObj = JsonConvert.DeserializeObject(data);
+	var dataObj = jsonObject.data;
+	var extDataObj = JsonConvert.SerializeObject(dataOfObject,Formatting.Indented);
+	users = JsonConvert.DeserializeObject<List<UserModel>>(extractedDataJson);
+}

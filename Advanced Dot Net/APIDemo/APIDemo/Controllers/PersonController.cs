@@ -105,11 +105,11 @@ namespace APIDemo.Controllers
 
         #region API_Person_Add
         [HttpPost]
-        public IActionResult API_AddStudent(PersonModel model)
+        public IActionResult API_AddStudent([FromForm]PersonModel model)
         {
+            Dictionary<string, dynamic> dict = new Dictionary<string, dynamic>();
             if (!ModelState.IsValid)
             {
-                Dictionary<string, dynamic> dict = new Dictionary<string, dynamic>();
                 dict.Add("status", false);
                 dict.Add("message", "Data Not Correct");
                 return NotFound(dict);
@@ -118,16 +118,15 @@ namespace APIDemo.Controllers
             {
                 Person_BALBase bal = new Person_BALBase();
                 bool res = bal.API_Person_Add(model);
+
                 if (res)
                 {
-                    Dictionary<string, dynamic> dict = new Dictionary<string, dynamic>();
                     dict.Add("status", true);
                     dict.Add("message", "Data Added successfully");
                     return Ok(dict);
                 }
                 else
                 {
-                    Dictionary<string, dynamic> dict = new Dictionary<string, dynamic>();
                     dict.Add("status", false);
                     dict.Add("message", "Data Not Added");
                     return NotFound(dict);
@@ -135,7 +134,6 @@ namespace APIDemo.Controllers
             }
             catch (Exception ex)
             {
-                Dictionary<string, dynamic> dict = new Dictionary<string, dynamic>();
                 dict.Add("status", false);
                 dict.Add("message", "Data Not Added");
                 return NotFound();
@@ -145,39 +143,34 @@ namespace APIDemo.Controllers
 
         #region API_Person_UpdateByID
         [HttpPut]
-        public IActionResult API_Person_UpdateByID(PersonModel model)
+        public IActionResult API_Person_UpdateByID([FromForm]PersonModel model)
         {
+            Dictionary<string, dynamic> dict = new Dictionary<string, dynamic>();
             if (!ModelState.IsValid)
             {
-                Dictionary<string, dynamic> dict = new Dictionary<string, dynamic>();
                 dict.Add("status", false);
                 dict.Add("message", "Data Not Correct");
                 return NotFound(dict);
             }
             try
             {
-
                 Person_BALBase bal = new Person_BALBase();
                 bool res = bal.API_Person_UpdateByID(model);
                 if (res)
                 {
-                    Dictionary<string, dynamic> dict = new Dictionary<string, dynamic>();
                     dict.Add("status", true);
                     dict.Add("message", "Data Added successfully");
                     return Ok(dict);
                 }
                 else
                 {
-                    Dictionary<string, dynamic> dict = new Dictionary<string, dynamic>();
                     dict.Add("status", false);
                     dict.Add("message", "Data Not Added");
                     return NotFound(dict);
                 }
-
             }
             catch (Exception ex)
             {
-                Dictionary<string, dynamic> dict = new Dictionary<string, dynamic>();
                 dict.Add("status", false);
                 dict.Add("message", "Data Not Added");
                 return NotFound(dict);

@@ -2,7 +2,6 @@
 using Microsoft.Practices.EnterpriseLibrary.Data.Sql;
 using System.Data;
 using System.Data.Common;
-using System.Data.SqlClient;
 
 namespace APIDemo.DAL
 {
@@ -59,7 +58,7 @@ namespace APIDemo.DAL
                     }
                     else { return null; }
                 }
-                return null;
+                    return model;
             }
             catch
             {

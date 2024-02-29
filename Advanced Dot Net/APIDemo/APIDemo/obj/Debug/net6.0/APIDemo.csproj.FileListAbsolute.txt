@@ -108,3 +108,7 @@ E:\Semester-06\Advanced Dot Net\APIDemo\APIDemo\obj\Debug\net6.0\scopedcss\bundl
 E:\Semester-06\Advanced Dot Net\APIDemo\APIDemo\obj\Debug\net6.0\APIDemo.csproj.CopyComplete
 E:\Semester-06\Advanced Dot Net\APIDemo\APIDemo\obj\Debug\net6.0\APIDemo.genruntimeconfig.cache
 E:\Semester-06\Advanced Dot Net\APIDemo\APIDemo\obj\Debug\net6.0\ref\APIDemo.dll
+E:\Semester-06\Advanced Dot Net\APIDemo\APIDemo\bin\Debug\net6.0\FluentValidation.dll
+E:\Semester-06\Advanced Dot Net\APIDemo\APIDemo\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\Semester-06\Advanced Dot Net\APIDemo\APIDemo\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Semester-06\Advanced Dot Net\APIDemo\APIDemo\obj\Debug\net6.0\APIDemo.sourcelink.json

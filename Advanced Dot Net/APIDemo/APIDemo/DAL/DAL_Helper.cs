@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Connections;
-
-namespace APIDemo.DAL
+﻿namespace APIDemo.DAL
 {
     public class DAL_Helper
     {
