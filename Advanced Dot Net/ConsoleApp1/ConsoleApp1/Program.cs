@@ -1,4 +1,5 @@
 ﻿using ConsoleApp1;
+using System.Linq;
 using System.Net;
 
 public class Employee
@@ -26,23 +27,34 @@ public class Employee
 
 public class Program
 {
+    static List<Employee> Employees;
+    public static void GetAllEmployees()
+    {
+        Employees = Employee.GetEmployees();
+        foreach (Employee emp in Employees)
+        {
+            Console.WriteLine(emp.FirstName);
+        }
+        Console.WriteLine("---------------------------------------------------");
+    }
     public static void Main(string[] args)
     {
-        Console.WriteLine("Message");
-        List<Employee> basicQuery1 = (from emp in Employee.GetEmployees() select emp).ToList();
-        foreach(Employee emp in basicQuery1)
+        /*List<String> students = Student.GetStudents().SelectMany(s=>s.Programming).Distinct().ToList();
+        foreach(String student in students)
         {
-            Console.WriteLine(emp.FirstName);
+            Console.WriteLine(student);
         }
-        IEnumerable<Employee> basicMethod1 = Employee.GetEmployees().ToList();
-        Console.WriteLine("Using method syntax");
-        List<Employee> list = Employee.GetEmployees();
-        List<Employee> employees = list.Where(s => s.FirstName.Contains("ev")).ToList();
-        foreach (Employee emp in employees)
+        //int ans = Student.GetStudents().Sum(s => s.Id);
+        //int ans = Student.GetStudents().Aggregate<Student,int>((s1, mulID) => mulID =  mulID * s1.Id);
+        int ans = Student.GetStudents().Aggregate(1, (acc, s) => acc * s.Id);
+        int[] numbers = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+        int ans2 = numbers.Aggregate((n1, n2) => n1 * n2);*/
+        List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+        var ordd = numbers.Select((num, index) => new { ind1 = num, ind2 = index }).Where(x => x.ind1 % 2 != 0).ToList();
+        foreach(var item in ordd)
         {
-            Console.WriteLine(emp.FirstName);
+            Console.WriteLine(item.ind1+"  -  "+item.ind2);
         }
-        /*Console.ReadKey();*/
-
+        Console.ReadLine();
     }
 }

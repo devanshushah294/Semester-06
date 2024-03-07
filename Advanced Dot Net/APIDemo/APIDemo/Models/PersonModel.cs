@@ -15,5 +15,7 @@ namespace APIDemo.Models
         public decimal Amount { get; set; }
         public bool CheckedTermsConditions { get; set; }
         public int NoOfFriends { get; set; }
+        public bool HasDrivingLincense { get; set; }
+
     }
 }

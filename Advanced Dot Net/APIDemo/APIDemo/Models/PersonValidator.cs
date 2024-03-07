@@ -15,7 +15,9 @@ namespace APIDemo.Models
                 .NotNull().WithMessage("Must not be null")
                 .NotEmpty().WithMessage("Must not be empty");
 
-            RuleFor(person => person.Name).NotEmpty().WithMessage("Name is required").Length(5, 15);
+            RuleFor(person => person.Name)
+                .NotEmpty().WithMessage("Name is required")
+                .Length(5, 15);
 
             RuleFor(person => person.Contact)
                 .NotEmpty().WithMessage("Age must be greater than 0")
@@ -51,6 +53,21 @@ namespace APIDemo.Models
                 .Equal(x => x.Password).WithMessage("Password must be equal to confirm password");
 
             RuleFor(x => x.CheckedTermsConditions == true);
+
+            RuleFor(x => x.Age).GreaterThan(0); // Age must be greater than 0
+
+            // Additional condition for the validation rule
+            When(x => x.Age < 18, () =>
+            {
+                RuleFor(x => x.HasDrivingLincense)
+                    .Equal(true).WithMessage("Person can't have a driver's license because they are under 18.");
+            });
+            // Validation rule for HasDriverLicense
+            
+            RuleFor(x => x.HasDrivingLincense)
+                .Equal(true).WithMessage("Person must have a driver's license.");
+
+
         }
     }
 }
