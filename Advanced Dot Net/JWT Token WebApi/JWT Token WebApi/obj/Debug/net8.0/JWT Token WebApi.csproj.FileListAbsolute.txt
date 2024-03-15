@@ -1,0 +1,88 @@
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\appsettings.Development.json
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\appsettings.json
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\JWT Token WebApi.exe
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\JWT Token WebApi.deps.json
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\JWT Token WebApi.runtimeconfig.json
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\JWT Token WebApi.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\JWT Token WebApi.pdb
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\JWT Token WebApi.csproj.AssemblyReference.cache
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\JWT Token WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\JWT Token WebApi.AssemblyInfoInputs.cache
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\JWT Token WebApi.AssemblyInfo.cs
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\JWT Token WebApi.csproj.CoreCompileInputs.cache
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\JWT Token WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\JWT Token WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\JWT Token WebApi.sourcelink.json
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\staticwebassets.build.json
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\staticwebassets.development.json
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\staticwebassets\msbuild.JWT Token WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.JWT Token WebApi.props
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JWT Token WebApi.props
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JWT Token WebApi.props
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\scopedcss\bundle\JWT Token WebApi.styles.css
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\JWT Token WebApi.csproj.CopyComplete
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\JWT Token WebApi.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\refint\JWT Token WebApi.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\JWT Token WebApi.pdb
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\JWT Token WebApi.genruntimeconfig.cache
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\obj\Debug\net8.0\ref\JWT Token WebApi.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Azure.Core.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Azure.Identity.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\System.Data.Odbc.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\System.Data.OleDb.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Unity.Abstractions.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\Unity.Interception.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Semester-06\Advanced Dot Net\JWT Token WebApi\JWT Token WebApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
