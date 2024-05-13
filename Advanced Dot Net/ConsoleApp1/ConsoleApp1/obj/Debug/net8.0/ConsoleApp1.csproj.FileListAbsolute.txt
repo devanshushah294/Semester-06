@@ -13,3 +13,6 @@ E:\Semester-06\Advanced Dot Net\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\
 E:\Semester-06\Advanced Dot Net\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 E:\Semester-06\Advanced Dot Net\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 E:\Semester-06\Advanced Dot Net\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\Semester-06\Advanced Dot Net\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Semester-06\Advanced Dot Net\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Semester-06\Advanced Dot Net\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CopyComplete

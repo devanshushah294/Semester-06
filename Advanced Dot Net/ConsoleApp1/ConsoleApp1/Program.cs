@@ -1,6 +1,8 @@
 ﻿using ConsoleApp1;
+using Newtonsoft.Json;
 using System.Linq;
 using System.Net;
+using System.Text.Json.Serialization;
 
 public class Employee
 {
@@ -49,12 +51,20 @@ public class Program
         int ans = Student.GetStudents().Aggregate(1, (acc, s) => acc * s.Id);
         int[] numbers = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
         int ans2 = numbers.Aggregate((n1, n2) => n1 * n2);*/
-        List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-        var ordd = numbers.Select((num, index) => new { ind1 = num, ind2 = index }).Where(x => x.ind1 % 2 != 0).ToList();
-        foreach(var item in ordd)
-        {
-            Console.WriteLine(item.ind1+"  -  "+item.ind2);
-        }
+        //List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+        //var ordd = numbers.Select((num, index) => new { ind1 = num, ind2 = index }).Where(x => x.ind1 % 2 != 0).ToList();
+        //foreach(var item in ordd)
+        //{
+        //    Console.WriteLine(item.ind1+"  -  "+item.ind2);
+        //}
+        string str = @"{
+                    'Id' : 1,
+                    'Name' : 'Alice',
+                    'Email' : 'alice@example.com',
+                    'Programming' : [ 'Java', 'Python', 'C#' ]
+                }";
+        Student student = JsonConvert.DeserializeObject<Student>(str);
+        Console.WriteLine(student);
         Console.ReadLine();
     }
 }
